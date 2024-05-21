@@ -1,0 +1,19 @@
+{
+  "name": "my_solidity_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arup Basak",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
